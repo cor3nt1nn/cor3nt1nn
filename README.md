@@ -13,7 +13,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cor3nt1nn&label=Profile%20Views&color=001eff&style=flat" alt="cor3nt1nn" /> </p>
 <br>
-<div style="display:flex">
+<div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/corentinbes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="corentinbes" height="30" width="40" /></a>
