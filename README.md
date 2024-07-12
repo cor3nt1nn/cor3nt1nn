@@ -1,3 +1,5 @@
+<img align="center" alt="Banner" width="1000" style="border-radius:20px" src="./banniere.jpg">
+
 <h1 align="center">Hey you 👋, I am Corentin</h1>
 <h3 align="center">A passionate IT engineer student in France (Clermont-Ferrand, ISIMA)</h3>
 
