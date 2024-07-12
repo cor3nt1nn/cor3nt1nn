@@ -21,7 +21,7 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cor3nt1nn" height="30" width="40" />
     </a>
 
-  <h3 align="right">Languages and Tools:</h3>
+  <h3>Languages and Tools:</h3>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a> 
