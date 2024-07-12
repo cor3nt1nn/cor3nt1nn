@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" width="max-width" height="500" style="border-radius:20px" src="./banniere.jpg">
+<img align="center" alt="Banner" width="1100" height="500" style="border-radius:20px" src="./banniere.jpg">
 
 <h1 align="center">Hey you 👋, I am Corentin</h1>
 <h3 align="center">A passionate IT engineer student in France (Clermont-Ferrand, ISIMA)</h3>
