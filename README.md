@@ -29,6 +29,7 @@
 
   <h3 align="left">Let's Connect</h3>
     <p>I’m always open to discussing IT, motorsport, or potential career paths. Feel free to reach out to me for advice on my studies or for internships opportunities !</p>
+    <div align="center">
     <a href="https://linkedin.com/in/corentinbes" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="corentinbes" height="30" width="40" />
     </a>
@@ -38,6 +39,7 @@
     <a href="https://discordapp.com/users/474654075020115979" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="corentinnn" height="30" width="40" />
     </a>
+    </div>
 
   <h3>Languages and Tools:</h3>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
