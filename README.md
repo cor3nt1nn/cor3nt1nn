@@ -90,4 +90,6 @@
 <br>
 <br>
 <br>
+<div align="center">
 Thank you for visiting my GitHub profile! 🚗💨
+</div>
