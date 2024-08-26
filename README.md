@@ -1,5 +1,5 @@
 <div style="display:flex; justify-content:center; width:500px; ">
-  <img src="./banniere2.jpg" alt="Banner" width:500px>
+  <img src="./banniere2.jpg" alt="Banner" width="500px">
 </div>
 
 
