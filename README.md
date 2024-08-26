@@ -1,4 +1,4 @@
-<div style="display:flex; justify-content:center; width:700px; border-radius:20px;">
+<div style="display:flex; justify-content:center; width:500px; ">
   <img src="./banniere2.jpg" alt="Banner">
 </div>
 
