@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-</head>
-
-
-<body>
-
-
-<div style="display:flex; justify-content:center; width:1000px; border-radius:20px;">
+<div style="display:flex; justify-content:center; width:700px; border-radius:20px;">
   <img src="./banniere2.jpg" alt="Banner">
 </div>
 
