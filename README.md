@@ -1,13 +1,15 @@
+<!DOCTYPE html>
 <head>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-</head>
-
-<style>
+  <style>
   body {
     font-family: 'Roboto', sans-serif;
   }
-</style>
+  </style>
+</head>
 
+
+<body>
 
 
 <div style="display:flex; justify-content:center; width:1000px; border-radius:20px;">
@@ -107,3 +109,4 @@
 <div align="center">
 <i>Thank you for visiting my GitHub profile ! 🚗💨</i>
 </div>
+</body>
