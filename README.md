@@ -1,6 +1,7 @@
-<div style="display:flex; justify-content:center;">
-  <img src="./banniere.jpg" alt="Banner" style="max-width:1000px; max-height:500px; width:auto; height:auto; border-radius:20px; object-fit:contain;">
+<div style="display:flex; justify-content:center; overflow:hidden; width:1000px; height:400px; border-radius:20px;">
+  <img src="./banniere.jpg" alt="Banner" style="width:100%; height:100%; object-fit:cover;">
 </div>
+
 
 
 <h1 align="center">Hello, I'm Corentin !👋</h1>
