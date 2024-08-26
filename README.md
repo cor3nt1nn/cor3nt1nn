@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello, I'm Corentin !👋</h1>
-<h3 align="center">I’m a 19-year-old engineering student at ISIMA in Clermont-Ferrand, France, with a deep-seated passion for computer science and motorsport. 🚀</h3>
+<h3 align="center">I’m a 19-year-old engineering student at ISIMA in Clermont-Ferrand (France), with a deep-seated passion for computer science and motorsport. 🚀</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=cor3nt1nn&label=Profile%20Views&color=001eff&style=flat" alt="cor3nt1nn" /> 
@@ -19,6 +19,8 @@
       Currently, I’m delving into :
       <li>
         Programming: Focusing on algorithms, data structures, and automata theory.
+      </li>
+      <li>
         Graph Theory: Exploring applications and theoretical aspects of graphs.
       </li>
     </p>
@@ -27,11 +29,14 @@
 
   <h3 align="left">Let's Connect</h3>
     <p>I’m always open to discussing IT, motorsport, or potential career paths. Feel free to reach out to me for advice on my studies or for internships opportunities !</p>
-    <a href="https://linkedin.com/in/corentinbes" target="blank">
+    <a href="https://linkedin.com/in/corentinbes" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="corentinbes" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/cor3nt1nn" target="blank">
+    <a href="https://instagram.com/cor3nt1nn" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cor3nt1nn" height="30" width="40" />
+    </a>
+    <a href="https://discordapp.com/users/474654075020115979" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="corentinnn" height="30" width="40" />
     </a>
 
   <h3>Languages and Tools:</h3>
