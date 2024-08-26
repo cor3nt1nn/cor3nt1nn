@@ -91,5 +91,5 @@
 <br>
 <br>
 <div align="center">
-Thank you for visiting my GitHub profile! 🚗💨
+<i>Thank you for visiting my GitHub profile! 🚗💨</i>
 </div>
