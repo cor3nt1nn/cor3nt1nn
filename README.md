@@ -1,6 +1,7 @@
 <div style="display:flex; justify-content:center;">
-  <img src="./banniere.jpg" alt="Banner" style="width:1000px; height:500px; border-radius:20px; object-fit:cover;">
+  <img src="./banniere.jpg" alt="Banner" style="max-width:1000px; max-height:500px; width:auto; height:auto; border-radius:20px; object-fit:contain;">
 </div>
+
 
 <h1 align="center">Hello, I'm Corentin !👋</h1>
 <h2 align="center">I’m a 19-year-old engineering student at ISIMA in Clermont-Ferrand (France), with a deep-seated passion for computer science and motorsport. 🏎️</h2>
@@ -91,5 +92,5 @@
 <br>
 <br>
 <div align="center">
-<i>Thank you for visiting my GitHub profile! 🚗💨</i>
+<i>Thank you for visiting my GitHub profile ! 🚗💨</i>
 </div>
