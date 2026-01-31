@@ -1,5 +1,5 @@
 <div style="display:flex; justify-content:center; width:500px; ">
-  <img src="./banniere2.jpg" alt="Banner" width="1000px">
+  <img src="./media82_thumbnail.jpg" alt="Banner" width="1000px">
 </div>
 
 <h1 align="center">Hello, I'm Corentin !</h1>
