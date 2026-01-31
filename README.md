@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello, I'm Corentin !</h1>
-<h2 align="center">I'm a 21-year-old engineering student at ISIMA in Clermont-Ferrand (France), with a deep-seated passion for computer science and motorsport. 🏎️</h2>
+<h2 align="center">I'm a 21-year-old Graduate Student in Software Engineering and Computer Systems at ISIMA in Clermont-Ferrand (France), with a deep-seated passion for computer science and motorsport. 🏎️</h2>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=cor3nt1nn&label=Profile%20Views&color=001eff&style=flat" alt="cor3nt1nn" /> 
@@ -81,7 +81,6 @@
       <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
       </a>
-
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> 
       </a>
